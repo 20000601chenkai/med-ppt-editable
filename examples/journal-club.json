@@ -1,0 +1,10 @@
+{
+  "title": "文献汇报工作稿",
+  "demo": true,
+  "sources": {"PENDING": "尚未提供论文。本文件是结构演示，不包含研究结果或真实文献引述。"},
+  "slides": [
+    {"id": "paper", "layout": "cover", "title": "文献汇报工作稿", "subtitle": "研究问题、方法、结果与局限", "body": "论文题名、作者、期刊与 DOI：未提供", "source_ids": ["PENDING"]},
+    {"id": "pico", "layout": "table", "title": "研究问题与设计", "columns": ["要素", "原文信息"], "rows": [["研究人群", "未提供"], ["干预或暴露", "未提供"], ["对照", "未提供"], ["主要结局", "未提供"], ["研究设计", "未提供"]], "source_ids": ["PENDING"]},
+    {"id": "critical-appraisal", "layout": "bullets", "title": "结果与批判性评价", "items": ["主要结果及置信区间：未提供", "样本量与分析人群：未提供", "偏倚风险与失访情况：未提供", "临床意义与适用范围：待阅读全文后评价"], "source_ids": ["PENDING"]}
+  ]
+}

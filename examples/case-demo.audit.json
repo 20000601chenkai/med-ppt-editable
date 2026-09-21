@@ -1,0 +1,71 @@
+{
+  "structural_ok": true,
+  "visual_check": "not_performed_by_this_script",
+  "errors": [],
+  "warnings": [],
+  "slides": [
+    {
+      "number": 1,
+      "name": "cover",
+      "text_frames": 6,
+      "tables": 0,
+      "charts": 0,
+      "pictures": 0,
+      "workbooks": 0
+    },
+    {
+      "number": 2,
+      "name": "case-summary",
+      "text_frames": 15,
+      "tables": 0,
+      "charts": 0,
+      "pictures": 0,
+      "workbooks": 0
+    },
+    {
+      "number": 3,
+      "name": "timeline",
+      "text_frames": 13,
+      "tables": 0,
+      "charts": 0,
+      "pictures": 0,
+      "workbooks": 0
+    },
+    {
+      "number": 4,
+      "name": "observations",
+      "text_frames": 5,
+      "tables": 1,
+      "charts": 0,
+      "pictures": 0,
+      "workbooks": 0
+    },
+    {
+      "number": 5,
+      "name": "trend",
+      "text_frames": 6,
+      "tables": 0,
+      "charts": 1,
+      "pictures": 0,
+      "workbooks": 1
+    },
+    {
+      "number": 6,
+      "name": "discussion",
+      "text_frames": 13,
+      "tables": 0,
+      "charts": 0,
+      "pictures": 0,
+      "workbooks": 0
+    },
+    {
+      "number": 7,
+      "name": "references",
+      "text_frames": 11,
+      "tables": 0,
+      "charts": 0,
+      "pictures": 0,
+      "workbooks": 0
+    }
+  ]
+}
