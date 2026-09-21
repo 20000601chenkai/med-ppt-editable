@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medical Editable PPT"
+  short_description: "Editable medical slides with native charts and tables"
+  default_prompt: "Use $med-ppt-editable to turn my medical case or paper into an editable PowerPoint with traceable sources."
